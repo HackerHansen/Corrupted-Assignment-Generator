@@ -3,7 +3,7 @@ Quickly generates corrupted assignment files
 
 Forgot to do an assignment that's due in 10 minutes? Just generate a file of the correct format, turn it in, and blame the computer or storage device for corrupting the file. Your grade might be saved by a deadline extension! 
 
-This program was mainly made as a joke. 
+This program was mainly made as a joke. It was thrown together quickly so it's probably not very efficient, and there are probably ways to improve its speed. 
 
 ### Disclaimer 
 
