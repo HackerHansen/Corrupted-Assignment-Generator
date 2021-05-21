@@ -30,7 +30,7 @@ start:
     int lastGenProgress = -1;
     srand(time(NULL));
     for (int i = 0; i < size; i++) {
-        char randomChar = rand() % 255;
+        char randomChar = rand() % 256;
         outputString += randomChar;
         int generationProgress = ((float)i / (float)size) * 100.f;
         if (generationProgress > lastGenProgress) {
